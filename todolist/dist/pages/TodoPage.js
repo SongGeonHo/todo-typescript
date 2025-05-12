@@ -1,6 +1,6 @@
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
 // App.tsx
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { FaRegSquare, FaRegCheckSquare, FaMoon, FaSun } from "react-icons/fa";
 import { useTheme } from "../context/ThemeContext";
 const TodoPage = () => {

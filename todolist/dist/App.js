@@ -1,5 +1,4 @@
 import { jsx as _jsx } from "react/jsx-runtime";
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import TodoPage from "./pages/TodoPage";
 const App = () => {
